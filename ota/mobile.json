@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43561,
-  "versionName": "6.5.17",
+  "versionCode": 43562,
+  "versionName": "6.5.18",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43561/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43562/WiwyXuper-Movil.apk",
   "size": 57461727,
-  "sha256": "eb89cf5ec9885d8a80494cb406e09591a0e291da9c0220e46d9f5fa6b0de4031",
-  "notes": "Carga más fiable: la pantalla permanece activa mientras la app está abierta y detecta el catálogo listo."
+  "sha256": "7cd113e31333f37bf65f7ae3d1e6b037aee370db3471e8e2258f5a1c2246b18b",
+  "notes": "La carga permanece hasta que aparecen las filas del inicio y los carruseles están listos."
 }
