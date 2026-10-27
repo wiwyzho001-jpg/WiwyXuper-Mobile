@@ -1,0 +1,10 @@
+{
+  "packageName": "com.xuper.wiwyxuper.mobile",
+  "versionCode": 43552,
+  "versionName": "6.5.10",
+  "minSdk": 22,
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43552/WiwyXuper-Movil.apk",
+  "size": 56178640,
+  "sha256": "e8df0842adae360563bb013f6df120eb2ec2b6b1ff5771df1dd9fd19bdefe94b",
+  "notes": "Actualización móvil con mejoras de carga, tema azul y canales ESPN/FOX de APKv1."
+}
