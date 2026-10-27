@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43553,
+  "versionCode": 43554,
   "versionName": "6.5.11",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43553/WiwyXuper-Movil.apk",
-  "size": 56601476,
-  "sha256": "78d9f077eb44b0d02d43babf998e1095001795949bab415e7bef7e3b7b566290",
-  "notes": "Icono y foco azules, nombre WiwyXuper-Movil; catálogo de los 10 canales consultado al inicio y pantalla de carga de 10 s."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43554/WiwyXuper-Movil.apk",
+  "size": 56580996,
+  "sha256": "2e692fb24f82c4786b5a8ac59d0a1c5a8bc3acaf5f22a93b45b6fcd5795e9044",
+  "notes": "Actualizador corregido: Buscar antes de descargar, Instalar al terminar; instalador Android reparado."
 }
