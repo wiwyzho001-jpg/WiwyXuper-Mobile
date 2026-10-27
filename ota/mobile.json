@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43552,
-  "versionName": "6.5.10",
+  "versionCode": 43553,
+  "versionName": "6.5.11",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43552/WiwyXuper-Movil.apk",
-  "size": 56261514,
-  "sha256": "08b7ef4bb92c65cb6a637e7bcac1470b6d7c99a0193cc7d449933bbe048338ed",
-  "notes": "Actualización móvil con los 10 canales de APKv1, incluidos Béisbol Latino y Hi Sports; mejoras de carga y tema azul."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43553/WiwyXuper-Movil.apk",
+  "size": 56601476,
+  "sha256": "78d9f077eb44b0d02d43babf998e1095001795949bab415e7bef7e3b7b566290",
+  "notes": "Icono y foco azules, nombre WiwyXuper-Movil; catálogo de los 10 canales consultado al inicio y pantalla de carga de 10 s."
 }
