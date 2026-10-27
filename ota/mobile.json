@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43559,
-  "versionName": "6.5.15",
+  "versionCode": 43560,
+  "versionName": "6.5.16",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43559/WiwyXuper-Movil.apk",
-  "size": 57457631,
-  "sha256": "2ff23e00b46772f1bbe4b732d89344c12c2f62bb6540823ce1cd71b53b8d58c5",
-  "notes": "Corrección de la pantalla azul bloqueada al volver de canales o eventos."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43560/WiwyXuper-Movil.apk",
+  "size": 57461727,
+  "sha256": "5515928d968d108ea7db67f22d2eb0c870df88ec7a15dfecfc50de65beae2b82",
+  "notes": "Carga inicial mejorada: mantiene la pantalla encendida y prepara el catálogo de los diez canales añadidos."
 }
