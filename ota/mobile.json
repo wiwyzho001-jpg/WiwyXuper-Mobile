@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43560,
-  "versionName": "6.5.16",
+  "versionCode": 43561,
+  "versionName": "6.5.17",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43560/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43561/WiwyXuper-Movil.apk",
   "size": 57461727,
-  "sha256": "5515928d968d108ea7db67f22d2eb0c870df88ec7a15dfecfc50de65beae2b82",
-  "notes": "Carga inicial mejorada: mantiene la pantalla encendida y prepara el catálogo de los diez canales añadidos."
+  "sha256": "eb89cf5ec9885d8a80494cb406e09591a0e291da9c0220e46d9f5fa6b0de4031",
+  "notes": "Carga más fiable: la pantalla permanece activa mientras la app está abierta y detecta el catálogo listo."
 }
