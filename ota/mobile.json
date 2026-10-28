@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43564,
+  "versionCode": 43566,
   "versionName": "6.5.20",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43564/WiwyXuper-Movil.apk",
-  "size": 57465823,
-  "sha256": "f99f17bea8c3df948123d20c6d929af779e27bd96235cee186b627c015b51a54",
-  "notes": "Ajuste de visualización 16:9 para los canales agregados."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43566/WiwyXuper-Movil.apk",
+  "size": 57457545,
+  "sha256": "0c0735fd029919d5f036c689ae9cbb6ecf9506216ba1e900339617384bcee53c",
+  "notes": "Identidad propia en almacenamiento privado. Se retira la identidad compartida incluida en la prueba anterior."
 }
