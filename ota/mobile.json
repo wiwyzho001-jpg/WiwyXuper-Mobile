@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43567,
+  "versionCode": 43570,
   "versionName": "6.5.20",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43567/WiwyXuper-Movil.apk",
-  "size": 58858524,
-  "sha256": "69a46e64d849dba942ed63fe296c6219241d242286b7012cf4e4517da7fa7576",
-  "notes": "Nuevo motor Media3 para los diez canales deportivos añadidos, con mejoras de carga y recuperación ante fallos temporales de conexión. Se conserva la precarga."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43570/WiwyXuper-Movil.apk",
+  "size": 58883456,
+  "sha256": "de20d5eddeabb976fd9418ca460643d9bb34f3626c92b54da1db47cecdd7f0f0",
+  "notes": "Se añaden Sky Sport Altitude, Sky Sport La Liga, Sky Sport y TUDN en Lista completa y Deportes. Conserva Media3, la precarga, el logo azul y los ajustes de la versión 43567."
 }
