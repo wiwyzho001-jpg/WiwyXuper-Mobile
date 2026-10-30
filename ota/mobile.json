@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43572,
+  "versionCode": 43574,
   "versionName": "6.5.20",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43572/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43574/WiwyXuper-Movil.apk",
   "size": 58883456,
-  "sha256": "1141e1f02c9ebfd3cc9994515c72b6a623f2a48152d2090845843d0bf8ab3c74",
-  "notes": "Ajusta los títulos Categoría y Favoritos y la cabecera de TV. El foco de Eventos deportivos es azul y la etiqueta de calidad de los canales añadidos muestra 720P. Conserva Media3 y los canales existentes."
+  "sha256": "60faa8e3a424203f58db49ed357c6949270220f77ee346a2532c0c4c798a9207",
+  "notes": "Botones de adultos y tarjeta principal de eventos en azul. Usar contraseña y Crear patrón tienen el mismo tamaño. Cancelar o volver desde el patrón regresa al perfil sin repetir la pantalla de carga. Conserva los ajustes de TV, Media3 y todos los canales."
 }
