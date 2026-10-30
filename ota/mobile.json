@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43574,
+  "versionCode": 43575,
   "versionName": "6.5.20",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43574/WiwyXuper-Movil.apk",
-  "size": 58883456,
-  "sha256": "60faa8e3a424203f58db49ed357c6949270220f77ee346a2532c0c4c798a9207",
-  "notes": "Botones de adultos y tarjeta principal de eventos en azul. Usar contraseña y Crear patrón tienen el mismo tamaño. Cancelar o volver desde el patrón regresa al perfil sin repetir la pantalla de carga. Conserva los ajustes de TV, Media3 y todos los canales."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43575/WiwyXuper-Movil.apk",
+  "size": 59194752,
+  "sha256": "eec3477b5d8bd175841d5252e5b739f4b323de1b6fe85be2ee0d545d3e8181e5",
+  "notes": "Corrige la reproducción de los canales añadidos tras la actualización de PrimeView: la solicitud de licencia usa la misma sesión autorizada que el video. Conserva Media3, la precarga y los ajustes azules de la versión 43574."
 }
