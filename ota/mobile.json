@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43575,
-  "versionName": "6.5.20",
+  "versionCode": 43576,
+  "versionName": "6.5.21",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43575/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43576/WiwyXuper-Movil.apk",
   "size": 59194752,
-  "sha256": "eec3477b5d8bd175841d5252e5b739f4b323de1b6fe85be2ee0d545d3e8181e5",
-  "notes": "Corrige la reproducción de los canales añadidos tras la actualización de PrimeView: la solicitud de licencia usa la misma sesión autorizada que el video. Conserva Media3, la precarga y los ajustes azules de la versión 43574."
+  "sha256": "3f401fa33c4d534f57c3015470f0ac6b397a408e4769133343fbcd682b726b19",
+  "notes": "Corrige el identificador de instalación heredado de PrimeView para recuperar los canales agregados. Conserva la sesión de firma, Media3 y los ajustes de la versión anterior."
 }
