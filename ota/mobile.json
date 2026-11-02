@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43579,
-  "versionName": "6.5.25",
+  "versionCode": 43582,
+  "versionName": "6.5.28",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43579/WiwyXuper-Movil.apk",
-  "size": 59202943,
-  "sha256": "7e4da1f088804a69a820e01df2541bdddffcdc08fc7f79b69222f1ca6c9d4f20",
-  "notes": "Oculta temporalmente los canales PrimeView; conserva el c\u00f3digo y ofusca sus credenciales para poder reactivarlos despu\u00e9s."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43582/WiwyXuper-Movil.apk",
+  "size": 59223423,
+  "sha256": "e36cde120d1fd10195a8822a72d50b8bfe623518d1d983f338cd63a1736439a5",
+  "notes": "Oculta temporalmente los canales PrimeView, conserva su código y ofusca sus credenciales. Añade 25 canales EasyPlay/AC Play y corrige un fallo de compatibilidad al iniciar."
 }
