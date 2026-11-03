@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43600,
-  "versionName": "6.5.46",
+  "versionCode": 43606,
+  "versionName": "6.5.52",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43600/WiwyXuper-Movil.apk",
-  "size": 59223423,
-  "sha256": "d76a904e9950348bacca78407b3e8b000b1c11f5bbb0f208fa06cba01834c65b",
-  "notes": "Mejora la transición entre secciones con un deslizamiento de 3.5 segundos. Conserva el resto de funciones y canales de la versión móvil."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43606/WiwyXuper-Movil.apk",
+  "size": 59227519,
+  "sha256": "bcbaa273b9d3e2def7c2ee6193f60faeec33c751fa5a6755627310e557838de4",
+  "notes": "Bienvenida retirada para evitar que tape el menú. Correcciones de recuperación de sesión y del aviso prematuro de conexión. Conserva canales, datos y próximas actualizaciones OTA."
 }
