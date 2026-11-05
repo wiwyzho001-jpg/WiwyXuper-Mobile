@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43606,
-  "versionName": "6.5.52",
+  "versionCode": 43607,
+  "versionName": "6.5.53",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43606/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43607/WiwyXuper-Movil.apk",
   "size": 59227519,
-  "sha256": "bcbaa273b9d3e2def7c2ee6193f60faeec33c751fa5a6755627310e557838de4",
-  "notes": "Bienvenida retirada para evitar que tape el menú. Correcciones de recuperación de sesión y del aviso prematuro de conexión. Conserva canales, datos y próximas actualizaciones OTA."
+  "sha256": "51fb425d97a1a79044c63626b76bf7528d1b3dee06b59d58915c2157acdd47e5",
+  "notes": "Indicador de arranque con conteo regresivo desde 15 y precarga de Eventos deportivos cinco segundos después de iniciar la carga principal."
 }
