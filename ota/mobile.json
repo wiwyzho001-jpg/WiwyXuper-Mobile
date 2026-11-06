@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43607,
-  "versionName": "6.5.53",
+  "versionCode": 43613,
+  "versionName": "6.5.59",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43607/WiwyXuper-Movil.apk",
-  "size": 59227519,
-  "sha256": "51fb425d97a1a79044c63626b76bf7528d1b3dee06b59d58915c2157acdd47e5",
-  "notes": "Indicador de arranque con conteo regresivo desde 15 y precarga de Eventos deportivos cinco segundos después de iniciar la carga principal."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43613/WiwyXuper-Movil.apk",
+  "size": 59231615,
+  "sha256": "981a133bee26cca2c645f6e04ebbc7558119b284448fb3b9072d579e4d6cb553",
+  "notes": "Arranque más rápido en redes conocidas. La activación prueba primero la última dirección que conectó si sigue en el DNS de la misma red y conserva las demás como respaldo. Se retira el conteo visual de inicio."
 }
