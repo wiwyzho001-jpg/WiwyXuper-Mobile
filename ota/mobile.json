@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43613,
-  "versionName": "6.5.59",
+  "versionCode": 43625,
+  "versionName": "6.5.71",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43613/WiwyXuper-Movil.apk",
-  "size": 59231615,
-  "sha256": "981a133bee26cca2c645f6e04ebbc7558119b284448fb3b9072d579e4d6cb553",
-  "notes": "Arranque más rápido en redes conocidas. La activación prueba primero la última dirección que conectó si sigue en el DNS de la misma red y conserva las demás como respaldo. Se retira el conteo visual de inicio."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43625/WiwyXuper-Movil.apk",
+  "size": 59235711,
+  "sha256": "e1ff2a0796dd990de128fb2c9a65a0e7bf1d8cabfc49bc168de7f2013111eb43",
+  "notes": "Carga más rápida de los listados actuales de RBTV+ y WiwySport en Eventos deportivos. Se recupera el botón de favoritos junto a la guía de TV y se guardan los canales agregados en Favoritos."
 }
