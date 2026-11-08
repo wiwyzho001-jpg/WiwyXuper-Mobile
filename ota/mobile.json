@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43625,
-  "versionName": "6.5.71",
+  "versionCode": 43638,
+  "versionName": "6.5.81",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43625/WiwyXuper-Movil.apk",
-  "size": 59235711,
-  "sha256": "e1ff2a0796dd990de128fb2c9a65a0e7bf1d8cabfc49bc168de7f2013111eb43",
-  "notes": "Carga más rápida de los listados actuales de RBTV+ y WiwySport en Eventos deportivos. Se recupera el botón de favoritos junto a la guía de TV y se guardan los canales agregados en Favoritos."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43638/WiwyXuper-Movil.apk",
+  "size": 59268678,
+  "sha256": "5a61398a3e8dd9c897e6524c14f37e5af8d4f3ea30774643426bef4c95f43819",
+  "notes": "Incluye los nueve canales BudTV con consulta de enlaces vigentes al abrirlos. Corrige Favoritos de los canales agregados en las categorías del reproductor al girar la pantalla. Conserva el arranque rápido."
 }
