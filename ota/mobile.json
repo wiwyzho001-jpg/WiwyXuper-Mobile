@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43638,
-  "versionName": "6.5.81",
+  "versionCode": 43640,
+  "versionName": "6.5.83",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43638/WiwyXuper-Movil.apk",
-  "size": 59268678,
-  "sha256": "5a61398a3e8dd9c897e6524c14f37e5af8d4f3ea30774643426bef4c95f43819",
-  "notes": "Incluye los nueve canales BudTV con consulta de enlaces vigentes al abrirlos. Corrige Favoritos de los canales agregados en las categorías del reproductor al girar la pantalla. Conserva el arranque rápido."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43640/WiwyXuper-Movil.apk",
+  "size": 59375365,
+  "sha256": "8360bf6cfc0f7bbb9f7c2bbee68617a581b4a7be1f7d696a2eb8fd8fea12a61d",
+  "notes": "Añade canales BudTV a Todos y Deportes; conserva el arranque rápido y resuelve enlaces al seleccionar cada canal."
 }
