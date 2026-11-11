@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43640,
-  "versionName": "6.5.83",
+  "versionCode": 43663,
+  "versionName": "6.5.84",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43640/WiwyXuper-Movil.apk",
-  "size": 59375365,
-  "sha256": "8360bf6cfc0f7bbb9f7c2bbee68617a581b4a7be1f7d696a2eb8fd8fea12a61d",
-  "notes": "Añade canales BudTV a Todos y Deportes; conserva el arranque rápido y resuelve enlaces al seleccionar cada canal."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43663/WiwyXuper-Movil.apk",
+  "size": 59371269,
+  "sha256": "984ec6571a3db5c708d86beb6f5d67cae6b51e4929256f144ca30e7a8411b51e",
+  "notes": "Actualiza las fuentes firmadas de TVPlus cada vez que se abre un canal; conserva la validación HTTPS."
 }
