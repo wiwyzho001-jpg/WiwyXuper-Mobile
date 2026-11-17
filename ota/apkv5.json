@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43713,
+  "versionCode": 43714,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43713/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43714/WiwyXuper.apk",
   "size": 66397957,
-  "sha256": "54bcb231f6257a45d58e72251d479bfd35090c48b1a59da1732d03b1da6bdf84",
-  "notes": "Se retiraron los canales de RQTVPLUS por inestabilidad. Las demás fuentes y canales se conservan."
+  "sha256": "b66a55e4cd24ccadd19e60347a97eaba703e3d71eebb7bd9ebe3e7c18a2a9464",
+  "notes": "Se restauraron los 18 canales de BudTV: 16 en Deportes y Space HD y Universal Premier en Cine y Series. Se conserva la renovación de enlaces al abrir cada canal."
 }
