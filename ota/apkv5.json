@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43712,
+  "versionCode": 43713,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43712/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43713/WiwyXuper.apk",
   "size": 66397957,
-  "sha256": "e4364828b68a668725cd819c102ed6557e765868a407334d42f2842ef0f89ec9",
-  "notes": "Enlace corto de descarga y QR de Compartir app con la imagen de Perfil."
+  "sha256": "54bcb231f6257a45d58e72251d479bfd35090c48b1a59da1732d03b1da6bdf84",
+  "notes": "Se retiraron los canales de RQTVPLUS por inestabilidad. Las demás fuentes y canales se conservan."
 }
