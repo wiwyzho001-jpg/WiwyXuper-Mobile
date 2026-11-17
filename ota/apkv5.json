@@ -1,0 +1,10 @@
+{
+  "packageName": "com.xuper.wiwyxuper",
+  "versionCode": 43712,
+  "versionName": "4.35.1",
+  "minSdk": 19,
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43712/WiwyXuper.apk",
+  "size": 66397957,
+  "sha256": "e4364828b68a668725cd819c102ed6557e765868a407334d42f2842ef0f89ec9",
+  "notes": "Enlace corto de descarga y QR de Compartir app con la imagen de Perfil."
+}
