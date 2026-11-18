@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43717,
+  "versionCode": 43721,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43717/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43721/WiwyXuper.apk",
   "size": 66414341,
-  "sha256": "19fbdfbd10f569feb541047447f74180c306288ae802ff5e316b205fa7417ec2",
-  "notes": "Eventos deportivos: Izquierda abre los eventos en vivo y Abajo muestra hasta seis eventos recientes. Atrás cierra los controles visibles antes de salir del reproductor."
+  "sha256": "6eede724699c9104f1d217cf793a3bbf716e31b8bde8262c05cd2f3e3ee8ffe0",
+  "notes": "APKv5 43721 basada exactamente en OTA 43717. Se verificó en Chromecast Sabrina: menú principal en 3.2–3.8 s en dos aperturas; Media3 se precalienta 5 s después de llegar al menú (80 ms y 18 ms). Sin cambios de catálogo ni reproducción."
 }
