@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43721,
+  "versionCode": 43732,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43721/WiwyXuper.apk",
-  "size": 66414341,
-  "sha256": "6eede724699c9104f1d217cf793a3bbf716e31b8bde8262c05cd2f3e3ee8ffe0",
-  "notes": "APKv5 43721 basada exactamente en OTA 43717. Se verificó en Chromecast Sabrina: menú principal en 3.2–3.8 s en dos aperturas; Media3 se precalienta 5 s después de llegar al menú (80 ms y 18 ms). Sin cambios de catálogo ni reproducción."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43732/WiwyXuper.apk",
+  "size": 66677376,
+  "sha256": "cddfb322392afa30f1a324c0c680fa1a858cc4043df7f96e67669fa24187a739",
+  "notes": "TVLokura: Sky Sports 1, Bicolor+, Premium, Premium 2, Premium 3 y beIN SPORTS XTRA con logos; Maxcine, Maxcine 2 y Maxcine Comedy en Todos y Cine y series. Catálogo en memoria con preparación en segundo plano para agilizar aperturas, máximo 1080p y corrección del despacho de TVPlus/BudTV."
 }
