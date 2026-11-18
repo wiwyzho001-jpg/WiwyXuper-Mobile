@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43714,
+  "versionCode": 43717,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43714/WiwyXuper.apk",
-  "size": 66397957,
-  "sha256": "b66a55e4cd24ccadd19e60347a97eaba703e3d71eebb7bd9ebe3e7c18a2a9464",
-  "notes": "Se restauraron los 18 canales de BudTV: 16 en Deportes y Space HD y Universal Premier en Cine y Series. Se conserva la renovación de enlaces al abrir cada canal."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43717/WiwyXuper.apk",
+  "size": 66414341,
+  "sha256": "19fbdfbd10f569feb541047447f74180c306288ae802ff5e316b205fa7417ec2",
+  "notes": "Eventos deportivos: Izquierda abre los eventos en vivo y Abajo muestra hasta seis eventos recientes. Atrás cierra los controles visibles antes de salir del reproductor."
 }
