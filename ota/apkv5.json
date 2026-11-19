@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43752,
+  "versionCode": 43760,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43752/WiwyXuper.apk",
-  "size": 66891544,
-  "sha256": "8462d5c272409452cdaedb7457c07f36606deea2abbd21ef173ffb06e324ab45",
-  "notes": "Mejora la recuperación automática de sesión al volver a la app; conserva el arranque, almacenamiento privado de identidad en Android TV/móvil y aviso de cuatro horas desactivado."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43760/WiwyXuper.apk",
+  "size": 66907928,
+  "sha256": "a5467c52ae42b2235795ff4e8a22527c57e4bc932efb82abf01a6af973f4bbd8",
+  "notes": "Búsqueda por voz: foco inicial en el micrófono con latido morado y rojo, escucha con pausa solicitada de 1.8 segundos y atajo de TV solo por número de canal. Corrección del acceso al catálogo completo para la búsqueda numérica."
 }
