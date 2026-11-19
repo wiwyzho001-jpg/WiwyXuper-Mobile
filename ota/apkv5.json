@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43747,
+  "versionCode": 43751,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43747/WiwyXuper.apk",
-  "size": 66677376,
-  "sha256": "f37b4af78767290ce803d211ba2e5a034b435d918e3ebfd148225c0617dd871b",
-  "notes": "Acelera la disponibilidad de Deportes, Vivo gratis y Cine y Series reutilizando la membresía de canales guardada y conciliándola con el catálogo actual. Conserva la apertura y reproducción nativas. No incluye búsqueda por voz."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43751/WiwyXuper.apk",
+  "size": 66891544,
+  "sha256": "e1e820520fbc6d3405691c6974b73f5fbc1340b97d86796d5dc3d8a3c770524d",
+  "notes": "Integra los canales ESPN y DSports de TV LOKURA con sus iconos. Mantiene la preparación de categorías para agilizar su disponibilidad."
 }
