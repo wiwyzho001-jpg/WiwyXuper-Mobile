@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43732,
+  "versionCode": 43747,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43732/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43747/WiwyXuper.apk",
   "size": 66677376,
-  "sha256": "cddfb322392afa30f1a324c0c680fa1a858cc4043df7f96e67669fa24187a739",
-  "notes": "TVLokura: Sky Sports 1, Bicolor+, Premium, Premium 2, Premium 3 y beIN SPORTS XTRA con logos; Maxcine, Maxcine 2 y Maxcine Comedy en Todos y Cine y series. Catálogo en memoria con preparación en segundo plano para agilizar aperturas, máximo 1080p y corrección del despacho de TVPlus/BudTV."
+  "sha256": "f37b4af78767290ce803d211ba2e5a034b435d918e3ebfd148225c0617dd871b",
+  "notes": "Acelera la disponibilidad de Deportes, Vivo gratis y Cine y Series reutilizando la membresía de canales guardada y conciliándola con el catálogo actual. Conserva la apertura y reproducción nativas. No incluye búsqueda por voz."
 }
