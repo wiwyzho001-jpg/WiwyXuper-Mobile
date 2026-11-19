@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43761,
+  "versionCode": 43764,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43761/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43764/WiwyXuper.apk",
   "size": 66907928,
-  "sha256": "11f19c36cb7787a64e04734b47b20ba59dc38008f62934bfb10893e04e757791",
-  "notes": "Búsqueda de canales por voz: coincidencia numérica exacta. Si el número reconocido no existe, muestra Canal inexistente y mantiene el canal actual. Se elimina la sustitución por alternativas parecidas."
+  "sha256": "b9d473117cc87e4460563bccb1c26e45733becc66b74d71e3669e8e5907b59b2",
+  "notes": "Añade ESPN, ESPN 2 a ESPN 6 y ESPN MX con sus logos en Todos y Deportes. Solicita una fuente nueva al abrir cada canal. Corrige el orden para mantener estos siete canales después de DSports, incluso al restaurar la caché."
 }
