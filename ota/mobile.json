@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43665,
+  "versionCode": 43748,
   "versionName": "6.5.85",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43665/WiwyXuper-Movil.apk",
-  "size": 59371269,
-  "sha256": "abc907d17b43449bee0c11f6474d1da4b7096670900abc8a2dd29d79233ee330",
-  "notes": "Solicita una URL firmada nueva de TVPlus cada vez que se abre un canal; conserva la validación HTTPS."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43748/WiwyXuper-Movil.apk",
+  "size": 60494464,
+  "sha256": "19fe9e8b654d2017db64f11e5a689c4bfe94479368a7145e33428566e4d4f30d",
+  "notes": "Iguala los 53 canales extra con APKv5 43747: TVPlus, BudTV, ESPN Deportes y nueve de TVLokura, con logos y distribución en Todos, Deportes y Cine y Series. Retira de las listas los extras que ya no utiliza APKv5."
 }
