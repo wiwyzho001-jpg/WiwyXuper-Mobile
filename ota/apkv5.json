@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43751,
+  "versionCode": 43752,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43751/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43752/WiwyXuper.apk",
   "size": 66891544,
-  "sha256": "e1e820520fbc6d3405691c6974b73f5fbc1340b97d86796d5dc3d8a3c770524d",
-  "notes": "Integra los canales ESPN y DSports de TV LOKURA con sus iconos. Mantiene la preparación de categorías para agilizar su disponibilidad."
+  "sha256": "8462d5c272409452cdaedb7457c07f36606deea2abbd21ef173ffb06e324ab45",
+  "notes": "Mejora la recuperación automática de sesión al volver a la app; conserva el arranque, almacenamiento privado de identidad en Android TV/móvil y aviso de cuatro horas desactivado."
 }
