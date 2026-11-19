@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43760,
+  "versionCode": 43761,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43760/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43761/WiwyXuper.apk",
   "size": 66907928,
-  "sha256": "a5467c52ae42b2235795ff4e8a22527c57e4bc932efb82abf01a6af973f4bbd8",
-  "notes": "Búsqueda por voz: foco inicial en el micrófono con latido morado y rojo, escucha con pausa solicitada de 1.8 segundos y atajo de TV solo por número de canal. Corrección del acceso al catálogo completo para la búsqueda numérica."
+  "sha256": "11f19c36cb7787a64e04734b47b20ba59dc38008f62934bfb10893e04e757791",
+  "notes": "Búsqueda de canales por voz: coincidencia numérica exacta. Si el número reconocido no existe, muestra Canal inexistente y mantiene el canal actual. Se elimina la sustitución por alternativas parecidas."
 }
