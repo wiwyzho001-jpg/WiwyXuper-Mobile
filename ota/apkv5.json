@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43764,
+  "versionCode": 43765,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43764/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43765/WiwyXuper.apk",
   "size": 66907928,
-  "sha256": "b9d473117cc87e4460563bccb1c26e45733becc66b74d71e3669e8e5907b59b2",
-  "notes": "Añade ESPN, ESPN 2 a ESPN 6 y ESPN MX con sus logos en Todos y Deportes. Solicita una fuente nueva al abrir cada canal. Corrige el orden para mantener estos siete canales después de DSports, incluso al restaurar la caché."
+  "sha256": "6fb5e2203551f9d781cace322bbe85b91cc66e070cee0c07e2d293d0729af3c5",
+  "notes": "Corrige la actualización de eventos deportivos: si falla Servidor 1, conserva los eventos disponibles y permite mostrar los de Servidor 2. Recupera el catálogo guardado y reintenta automáticamente tras fallos, respetando los plazos del proveedor. Los avisos identifican las fuentes como Servidor 1 y Servidor 2."
 }
