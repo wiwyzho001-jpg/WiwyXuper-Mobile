@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43749,
-  "versionName": "6.5.86",
+  "versionCode": 43750,
+  "versionName": "6.5.87",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43749/WiwyXuper-Movil.apk",
-  "size": 60712728,
-  "sha256": "b6d135b7ccb6d19140c47056097b8428b9979ae2bc9c6aa69c61fa56db0e02c8",
-  "notes": "Añade a APKv2 los 12 canales ESPN y DSports de TVLokura en Todos y Deportes, con logos y resolución dinámica de fuentes."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43750/WiwyXuper-Movil.apk",
+  "size": 60716824,
+  "sha256": "33b5bba2c44738f1e45d8f27618fd69802abc104ce72f5a5ddf434d763cde99d",
+  "notes": "Corrige la recuperación de favoritos de canales añadidos al cerrar y volver a abrir la app. Conserva los favoritos guardados y los muestra aunque el catálogo todavía esté cargando."
 }
