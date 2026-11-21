@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43765,
+  "versionCode": 43774,
   "versionName": "4.35.1",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43765/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43774/WiwyXuper.apk",
   "size": 66907928,
-  "sha256": "6fb5e2203551f9d781cace322bbe85b91cc66e070cee0c07e2d293d0729af3c5",
-  "notes": "Corrige la actualización de eventos deportivos: si falla Servidor 1, conserva los eventos disponibles y permite mostrar los de Servidor 2. Recupera el catálogo guardado y reintenta automáticamente tras fallos, respetando los plazos del proveedor. Los avisos identifican las fuentes como Servidor 1 y Servidor 2."
+  "sha256": "b679e6c2f08a8082cf9dbdb1d69d1b5554ec430e5b5971d03a658a1a3af9be22",
+  "notes": "Ajusta el cuadro de Login durante la reproducción. La app da hasta 60 segundos a la recuperación automática de sesión. El inicio de sesión manual sigue disponible desde Perfil."
 }
