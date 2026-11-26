@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43812,
-  "versionName": "4.35.30",
+  "versionCode": 43813,
+  "versionName": "4.35.31",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43812/WiwyXuper.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43813/WiwyXuper.apk",
   "size": 68909195,
-  "sha256": "f0e42c7a9b8806b214d551658818865d14cb65a4a24d9f7c0ef2ceeb03219b8b",
-  "notes": "Actualiza las tarjetas de Eventos deportivos incrementalmente al completar cada servidor, para reducir la espera entre RBTV, WiwySport y LTScores."
+  "sha256": "2956dbdcac9b95b0e3d14eda7c588bff57c52df81265d3341e81caf00fb7d1a7",
+  "notes": "Oculta el placeholder NFL NETWORK vs NFL NETWORK de Servidor 2 y corrige la fecha del partido Bears–Lions para el 26 de noviembre de 2026 a las 12:00, hora de Ciudad de México."
 }
