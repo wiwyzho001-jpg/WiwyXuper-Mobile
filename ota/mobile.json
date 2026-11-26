@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43750,
-  "versionName": "6.5.87",
+  "versionCode": 43754,
+  "versionName": "6.5.91",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43750/WiwyXuper-Movil.apk",
-  "size": 60716824,
-  "sha256": "33b5bba2c44738f1e45d8f27618fd69802abc104ce72f5a5ddf434d763cde99d",
-  "notes": "Corrige la recuperación de favoritos de canales añadidos al cerrar y volver a abrir la app. Conserva los favoritos guardados y los muestra aunque el catálogo todavía esté cargando."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43754/WiwyXuper-Movil.apk",
+  "size": 62586703,
+  "sha256": "d1905611ea0764254de4abe61de1fb9886de24d705ba3ba8277f8fd0e5a8b322",
+  "notes": "Agrega LTScores como Servidor 3 en eventos deportivos, con eventos separados por servidor y ordenados por horario. Refuerza el reintento Astra para volver a solicitar el mismo canal."
 }
