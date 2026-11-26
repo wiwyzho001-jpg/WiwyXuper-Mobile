@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper.mobile",
-  "versionCode": 43754,
-  "versionName": "6.5.91",
+  "versionCode": 43755,
+  "versionName": "6.5.92",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43754/WiwyXuper-Movil.apk",
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/43755/WiwyXuper-Movil.apk",
   "size": 62586703,
-  "sha256": "d1905611ea0764254de4abe61de1fb9886de24d705ba3ba8277f8fd0e5a8b322",
-  "notes": "Agrega LTScores como Servidor 3 en eventos deportivos, con eventos separados por servidor y ordenados por horario. Refuerza el reintento Astra para volver a solicitar el mismo canal."
+  "sha256": "e508b3ac8b342bac697e140d1c47efc50cd1c265036e9cb73e8dfa4bf61f9bc8",
+  "notes": "Precarga los catálogos de Astra y TV LOKURA dos segundos después de iniciar la aplicación para adelantar la preparación de canales extra."
 }
