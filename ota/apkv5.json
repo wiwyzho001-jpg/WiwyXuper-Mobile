@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43774,
-  "versionName": "4.35.1",
+  "versionCode": 43812,
+  "versionName": "4.35.30",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43774/WiwyXuper.apk",
-  "size": 66907928,
-  "sha256": "b679e6c2f08a8082cf9dbdb1d69d1b5554ec430e5b5971d03a658a1a3af9be22",
-  "notes": "Ajusta el cuadro de Login durante la reproducción. La app da hasta 60 segundos a la recuperación automática de sesión. El inicio de sesión manual sigue disponible desde Perfil."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43812/WiwyXuper.apk",
+  "size": 68909195,
+  "sha256": "f0e42c7a9b8806b214d551658818865d14cb65a4a24d9f7c0ef2ceeb03219b8b",
+  "notes": "Actualiza las tarjetas de Eventos deportivos incrementalmente al completar cada servidor, para reducir la espera entre RBTV, WiwySport y LTScores."
 }
