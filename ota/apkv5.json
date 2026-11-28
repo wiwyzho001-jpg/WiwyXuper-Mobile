@@ -1,10 +1,10 @@
 {
   "packageName": "com.xuper.wiwyxuper",
-  "versionCode": 43814,
-  "versionName": "4.35.32",
+  "versionCode": 43822,
+  "versionName": "4.35.40",
   "minSdk": 22,
-  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43814/WiwyXuper.apk",
-  "size": 68909195,
-  "sha256": "b3e41de49319d06aed2ca857d1d533bf848314999676c45f94a396e23f276708",
-  "notes": "Mejora el inicio: precarga Astra y TV LOKURA en segundo plano 2 segundos después de crear el proceso, sin bloquear la interfaz ni iniciar reproducción."
+  "url": "https://raw.githubusercontent.com/wiwyzho001-jpg/WiwyXuper-Mobile/main/releases/apkv5/43822/WiwyXuper.apk",
+  "size": 68909275,
+  "sha256": "be2c343eaab315260c0385746f7fcbf5301d73808d37a59e44102371eb48a31e",
+  "notes": "Actualiza el icono de inicio en móviles al icono negro de WiwyXuper; mantiene el icono de Android TV. Incluye la corrección de pantalla inicial sin splash de la versión anterior."
 }
